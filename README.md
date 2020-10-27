@@ -1,6 +1,6 @@
 
 # RenewableEnergy
-Rutgers Bootcamp Project 2 - Renewable Energy
+https://renewable-energy-heroku.herokuapp.com/
 
 ### About the Project
 * In this project, we analyzed 3 key points
