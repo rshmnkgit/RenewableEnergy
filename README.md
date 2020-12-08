@@ -1,6 +1,6 @@
 
 # RenewableEnergy
-https://renewable-energy-heroku.herokuapp.com/
+https://renewable-energy-herokuapp.herokuapp.com/
 
 ### About the Project
 * In this project, we analyzed 3 key points
