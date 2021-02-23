@@ -3,11 +3,10 @@
 https://renewable-energy-herokuapp.herokuapp.com/
 
 ### About the Project
-* In this project, we analyzed 3 key points
-* 1.We found that renewable energy generation is increased most of the countries during the past 20 years in the world .
-* 2.We uncovered the effects of Renewable Energy on Air pollution and Death Rate 
-* 3. We observed how the GDP per capita of each country would change the generation and consumption of Renewable Energy.
-In conclusion, according to the article by International Renewable Energy Agency(IRENA), as populations expand, living standards improve, and consumption rises, total demand for energy is expected to increase by 21% by 2030. In addition to this, growing concerns over climate change are prompting governments worldwide to seek ways to supply energy while minimizing greenhouse gas emissions and other environmental impacts.
+##### In this project, we analyzed 3 key points
+    * Usage of renewable energy all over the World.
+    * How are the relations between GDP of each countries and renewable energy generation and consumption?
+    * Display the effect of renewable energy generation on air pollution and death rate by years.
 
 ### Data Sources
 * https://ourworldindata.org/renewable-energy
